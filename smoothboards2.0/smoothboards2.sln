@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "smoothboards2.0", "smoothboards2.0\smoothboards2.0.shproj", "{8B587A97-349C-4F9F-9A8A-36B65C77BAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smoothboards2.0.iOS", "iOS\smoothboards2.0.iOS.csproj", "{2F2EBD89-F992-473B-A90E-BC1B39368E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Release|iPhone.Build.0 = Release|iPhone
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2F2EBD89-F992-473B-A90E-BC1B39368E64}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/pieter/Projects/smoothboards2.0/iOS/bin/iPhoneSimulator/Debug/smoothboards2.0.iOS.pdb
+/Users/pieter/Projects/smoothboards2.0/iOS/bin/iPhoneSimulator/Debug/smoothboards2.0.iOS.exe
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/smoothboards2.0.iOS.exe
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/smoothboards2.0.iOS.pdb
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/actool/_PartialAppManifest.items
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/optimized/
