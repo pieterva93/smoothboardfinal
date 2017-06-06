@@ -1,0 +1,9 @@
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/device-builds/ipad2.1-9.3.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/device-builds/ipad2.1-9.3.5/actool/_PartialAppManifest.items
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/device-builds/ipad2.1-9.3.5/actool/_BundleResourceWithLogicalName.items
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/device-builds/ipad2.1-9.3.5/optimized/
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/bin/iPhone/Debug/smoothboards2.0.iOS.pdb
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/bin/iPhone/Debug/smoothboards2.0.iOS.exe
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/smoothboards2.0.iOS.exe
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhone/Debug/smoothboards2.0.iOS.pdb

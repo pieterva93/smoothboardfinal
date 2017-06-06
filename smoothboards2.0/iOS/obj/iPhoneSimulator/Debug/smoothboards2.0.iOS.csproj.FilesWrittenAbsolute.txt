@@ -11,3 +11,12 @@
 /Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/actool/_PartialAppManifest.items
 /Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/actool/_BundleResourceWithLogicalName.items
 /Users/pieter/Projects/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/optimized/
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_PartialAppManifest.items
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/optimized/
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/bin/iPhoneSimulator/Debug/smoothboards2.0.iOS.pdb
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/bin/iPhoneSimulator/Debug/smoothboards2.0.iOS.exe
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/smoothboards2.0.iOS.exe
+/Users/casperbraat/GitHub/smoothboardfinal2/smoothboards2.0/iOS/obj/iPhoneSimulator/Debug/smoothboards2.0.iOS.pdb

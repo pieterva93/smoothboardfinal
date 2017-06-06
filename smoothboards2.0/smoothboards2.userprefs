@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{2F2EBD89-F992-473B-A90E-BC1B39368E64}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
     <Files>
       <File FileName="smoothboards2.0/MyClass.cs" Line="2" Column="24" />
-      <File FileName="iOS/WebViewController.cs" Line="37" Column="2" />
+      <File FileName="iOS/WebViewController.cs" Line="26" Column="33" />
       <File FileName="iOS/WebViewController.designer.cs" Line="1" Column="1" />
       <File FileName="iOS/Main.cs" Line="8" Column="24" />
-      <File FileName="iOS/AppDelegate.cs" Line="5" Column="24" />
+      <File FileName="iOS/AppDelegate.cs" Line="26" Column="4" />
+      <File FileName="iOS/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.smoothboards2.0.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.78B8A847-2D14-48BD-BE42-6E170749F20E" />
+  <MonoDevelop.Ide.ItemProperties.smoothboards2.0.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.09548e340adf58bf1a4954762a799514a0c8ca53" />
   <MultiItemStartupConfigurations />
 </Properties>
